@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '_e97y0ab!$eu^%@t-)9_d8*-_u_&dp^ehdud1m+is_il5cmz3&'
+SECRET_KEY = 'lr5db#w(a!z$k!w)bvtzw)w)f!*4r5*!c)bz#tf#7hmpq57dgt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -111,7 +111,7 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = False
+USE_TZ =False
 
 
 # Static files (CSS, JavaScript, Images)
